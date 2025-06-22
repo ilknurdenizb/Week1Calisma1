@@ -14,7 +14,7 @@ decimal firstprod = Convert.ToDecimal(Console.ReadLine());// decimal: product pr
 Console.WriteLine("İkinci Aldığı ürünün fiyatı: ");
 decimal secondprod = Convert.ToDecimal(Console.ReadLine());
 decimal sum1 = firstprod + secondprod;// decimal: total amount spent
-decimal v = 0.15m;
+decimal v = 0.10m;
 decimal sale = sum1 * v;// decimal: calculated discount value
 Console.WriteLine($"{tC} TC numaralı {name} {surname} isimli kişi için kayıt oluşturulmuştur.");
 Console.WriteLine($"{phonum} telefon numarasına bildirim mesajı gönderilmiştir.");
