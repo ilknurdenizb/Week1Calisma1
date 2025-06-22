@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("Deniz Baloğlu");
-Console.WriteLine("Kariyerime yeni bir yol yaratmak istiyorum, seçeneklerimi görebilmek adına da ilk olarak backend developer olarak başlamak istedim.");
+Console.WriteLine("Backend developer kursuna katılmamadaki amacım yeni kod becerisi kazanarak bunu uygulamalar yaratarak kullanmak istiyorum.");
