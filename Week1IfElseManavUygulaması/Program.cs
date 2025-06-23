@@ -21,3 +21,6 @@ else //if the input is not any of the above fruits
 {
     Console.WriteLine("Seçtiğiniz meyvenin fiyatı: 4 TL"); // Print the default price for all other fruits
 }
+
+
+// For this fruit price selection scenario with fixed input values, switch-case offers cleaner and more readable code than if-else.
